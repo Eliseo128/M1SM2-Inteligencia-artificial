@@ -50,4 +50,32 @@ preparación de material para inteligencia artificial
     *   Introducción a los problemas de búsqueda: encontrar un camino o una solución.
     *   Algoritmos de búsqueda simples (ej. búsqueda lineal, búsqueda en profundidad superficial).
     *   Simulación de cómo los humanos "buscan" soluciones a problemas.
-    *   Proyectos: resolver laberintos simples o encontrar el camino más corto en un mapa. 
+    *   Proyectos: resolver laberintos simples o encontrar el camino más corto en un mapa.
+*   **2.3 Sistemas Basados en Reglas y Expertos (Conceptos)**
+    *   ¿Cómo un sistema puede "pensar" como un experto en un dominio específico?
+    *   Diseño de reglas de producción (`SI condición ENTONCES acción`).
+    *   Implementación de un pequeño sistema experto para un tema sencillo (ej. diagnóstico de plantas, recomendación de películas).
+    *   La importancia de la base de conocimiento y el motor de inferencia.
+*   **2.4 Introducción a la Planificación y Secuenciación**
+    *   ¿Cómo los humanos planifican una serie de acciones para alcanzar una meta?
+    *   Conceptos básicos de estados, acciones y metas.
+    *   Programación de secuencias de acciones para resolver problemas simples.
+    *   Proyecto: programar un robot virtual para limpiar una habitación o preparar un café (simulado).
+
+---
+
+**Unidad 3: Proyectos Integradores y Desafíos de Inteligencia Artificial**
+
+*   **3.1 Procesamiento de Lenguaje Natural (Conceptos Básicos)**
+    *   ¿Cómo las máquinas pueden entender el lenguaje humano?
+    *   Introducción a la tokenización y la lematización con Python.
+    *   Análisis de sentimiento básico: detectar emociones en texto.
+    *   Proyecto: crear un programa que clasifique oraciones como positivas o negativas.
+*   **3.2 Resolución de Problemas de Lógica Complejos**
+    *   Aplicación de la lógica para resolver sudokus, crucigramas o problemas de lógica tipo "Einstein".
+    *   Diseño de algoritmos eficientes para encontrar soluciones.
+    *   El desafío de la complejidad y la optimización.
+*   **3.3 Construcción de un Agente Inteligente Simple**
+    *   Diseño y desarrollo de un "agente" que interactúe con su entorno (simulado).
+    *   Un agente que pueda percibir, razonar y actuar.
+    *   Ejemplo: un agente para un juego de mesa simple (ej. Tic-Tac-Toe) que use lógica para tomar decisiones. 
